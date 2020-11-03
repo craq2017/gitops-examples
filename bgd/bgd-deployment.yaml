@@ -33,5 +33,4 @@ spec:
           defaultMode: 420
           name: myconfig
         name: config
-        resources: {}
 ---
