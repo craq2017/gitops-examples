@@ -4,4 +4,4 @@ metadata:
   name: myconfig
 data:
   hello.txt: |
-    Hello world!!!!
+    Hello world!
